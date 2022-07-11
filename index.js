@@ -1,5 +1,5 @@
 const Name = "Rahul Bishnoi"
-const college = "GLA Mathura"
+const college = "GLA University, Mathura"
 const Roll_no = "201500543"
 
 const date = new Date();
